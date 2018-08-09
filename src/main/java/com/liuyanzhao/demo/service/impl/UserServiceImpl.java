@@ -33,7 +33,7 @@ public class UserServiceImpl implements UserService {
     public User getUserById(Integer id) {
         User user = null;
         try {
-            userRepository.findById(id).get();
+            user = userRepository.findById(id).get();
         } catch (Exception e) {
             e.printStackTrace();
         }
