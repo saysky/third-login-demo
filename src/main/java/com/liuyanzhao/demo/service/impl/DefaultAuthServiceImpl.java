@@ -13,7 +13,7 @@ import org.springframework.web.client.RestTemplate;
 
 import javax.xml.transform.Source;
 //import java.nio.charset.StandardCharsets;
-import java.nio.charset.StandardCharsets;
+import java.nio.charset.Charset;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -28,7 +28,7 @@ public abstract class DefaultAuthServiceImpl implements AuthService {
         requestFactory.setReadTimeout(120000);
         List<HttpMessageConverter<?>> messageConverters = new LinkedList<HttpMessageConverter<?>>();
         messageConverters.add(new ByteArrayHttpMessageConverter());
-        messageConverters.add(new StringHttpMessageConverter(StandardCharsets.UTF_8));
+        messageConverters.add(new StringHttpMessageConverter(Charset.forName("utf-8")));
         messageConverters.add(new ResourceHttpMessageConverter());
         messageConverters.add(new SourceHttpMessageConverter<Source>());
         messageConverters.add(new AllEncompassingFormHttpMessageConverter());

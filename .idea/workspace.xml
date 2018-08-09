@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b4b4a67-02af-4ae5-bd34-fd1af1b958ce" name="Default Changelist" comment="" />
+    <list default="true" id="7b4b4a67-02af-4ae5-bd34-fd1af1b958ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gitignore.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/QQAuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/QQAuthServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/dto/BindUserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/entity/Bind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/GithubAuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/GithubAuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/DefaultAuthServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/DefaultAuthServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/GithubAuthServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/GithubAuthServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/css/font-awesome.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/css/font-awesome.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/liuyanzhao/demo/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liuyanzhao/demo/controller/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/liuyanzhao/demo/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/liuyanzhao/demo/entity/Bind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/liuyanzhao/demo/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/liuyanzhao/demo/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/liuyanzhao/demo/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/liuyanzhao/demo/service/impl/UserServiceImpl.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,35 +56,47 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
-          <entry key="properties" value="1" />
+          <entry key="class" value="2" />
+          <entry key="html" value="2" />
+          <entry key="java" value="26" />
+          <entry key="properties" value="2" />
+          <entry key="txt" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
-          <entry key="Properties" value="1" />
+          <entry key="CLASS" value="2" />
+          <entry key="HTML" value="2" />
+          <entry key="JAVA" value="26" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="2" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1159" />
-          <entry key="properties" value="25" />
+          <entry key="dummy" value="4" />
+          <entry key="html" value="206" />
+          <entry key="java" value="2276" />
+          <entry key="properties" value="27" />
+          <entry key="txt" value="8" />
           <entry key="xml" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1159" />
-          <entry key="Properties" value="25" />
+          <entry key="HTML" value="206" />
+          <entry key="JAVA" value="2276" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Properties" value="27" />
           <entry key="XML" value="43" />
         </counts>
       </usages-collector>
@@ -59,19 +108,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/AuthController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1830">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/entity/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="662">
-              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            <state relative-caret-position="1020">
+              <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,10 +120,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/repository/UserRepository.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/QQAuthService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            <state relative-caret-position="270">
+              <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/QQAuthServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="124" column="34" selection-start-line="124" selection-start-column="34" selection-end-line="124" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,60 +141,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/UserController.java">
+        <entry file="file://$PROJECT_DIR$/gitignore.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="692">
-              <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="812">
-              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#901#902#0" expanded="true" />
-                <element signature="e#928#929#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/entity/Bind.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/DemoApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="120">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -153,8 +152,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state relative-caret-position="540">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -163,10 +162,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="3780">
+              <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/DefaultAuthServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="28" column="100" selection-start-line="28" selection-start-column="100" selection-end-line="28" selection-end-column="100" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/GithubAuthService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" selection-start-line="9" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/AuthService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/GithubAuthServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2310">
+              <caret line="89" column="55" selection-start-line="89" selection-start-column="55" selection-end-line="89" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -184,23 +225,41 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>thymele</find>
+      <find>ServiceException</find>
     </findStrings>
     <dirStrings>
       <dir>E:\code\java\workspace\third-login-demo</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/MainController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/entity/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/repository/UserRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/entity/Bind.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/interceptor/SessionInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/config/WebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/GithubAuthService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/AuthService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/QQAuthService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/DefaultAuthServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/AuthController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/GithubAuthServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/QQAuthServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gitignore.txt" />
       </list>
     </option>
   </component>
@@ -255,6 +314,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -267,109 +327,12 @@
               <item name="third-login-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="third-login-demo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="third-login-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="third-login-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="third-login-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="third-login-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="third-login-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="third-login-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="third-login-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="third-login-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="third-login-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="third-login-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyanzhao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="third-login-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="third-login-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyanzhao" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="third-login-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="third-login-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyanzhao" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="third-login-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="third-login-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyanzhao" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="third-login-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="third-login-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyanzhao" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="third-login-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="third-login-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liuyanzhao" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="third-login-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="third-login-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -380,10 +343,21 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533721190761" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533783740043" />
+    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\java\workspace\third-login-demo\src\main\resources\static\plugins" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\java\workspace\third-login-demo" />
+      <recent name="E:\code\java\workspace\third-login-demo\src\main\java\com\liuyanzhao\demo\service\impl" />
+      <recent name="E:\code\java\workspace\third-login-demo\src\main\java\com\liuyanzhao\demo\service" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -453,12 +427,13 @@
       <option name="presentableId" value="Default" />
       <updated>1533715469624</updated>
       <workItem from="1533715472782" duration="2071000" />
-      <workItem from="1533717566631" duration="3942000" />
+      <workItem from="1533717566631" duration="12161000" />
+      <workItem from="1533788451142" duration="827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6013000" />
+    <option name="totallyTimeSpent" value="15059000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -474,19 +449,19 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.60737526" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.606949" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39522257" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
       <window_info anchor="bottom" id="Problems" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -506,6 +481,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/GithubAuthServiceImpl.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -521,82 +508,125 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/MainController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/entity/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/entity/Bind.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/UserService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/repository/UserRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/UserServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="120">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/UserService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/interceptor/SessionInterceptor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/config/WebMvcConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/UserController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/dto/BindUserDTO.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/util/UriComponentsBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="177">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/AuthController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/UserServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/QQAuthService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#928#929#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/repository/UserRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        <state relative-caret-position="540">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/entity/User.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="3780">
+          <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/DefaultAuthServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="100" selection-start-line="28" selection-start-column="100" selection-end-line="28" selection-end-column="100" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/entity/Bind.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/GithubAuthService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="270">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/AuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/GithubAuthServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="89" column="55" selection-start-line="89" selection-start-column="55" selection-end-line="89" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liuyanzhao/demo/service/impl/QQAuthServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="692">
-          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+        <state relative-caret-position="468">
+          <caret line="124" column="34" selection-start-line="124" selection-start-column="34" selection-end-line="124" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>

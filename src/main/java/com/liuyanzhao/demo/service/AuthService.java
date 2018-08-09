@@ -1,8 +1,6 @@
 package com.liuyanzhao.demo.service;
 
 
-import com.liuyanzhao.demo.dto.BindUserDTO;
-
 import java.io.UnsupportedEncodingException;
 
 /**
@@ -12,9 +10,9 @@ import java.io.UnsupportedEncodingException;
 
 public interface AuthService {
 
-    String getAccessToken(String code);
+    String getAccessToken(String code) throws Exception;
 
-    String getOpenId(String accessToken);
+    String getOpenId(String accessToken) throws Exception;
 
     String refreshToken(String code);
 

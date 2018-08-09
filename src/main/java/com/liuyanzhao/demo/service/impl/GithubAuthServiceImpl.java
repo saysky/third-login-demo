@@ -1,9 +1,7 @@
 package com.liuyanzhao.demo.service.impl;
 
 import com.alibaba.fastjson.JSONObject;
-import com.liuyanzhao.demo.dto.BindUserDTO;
 import com.liuyanzhao.demo.service.GithubAuthService;
-import org.hibernate.service.spi.ServiceException;
 import org.springframework.stereotype.Service;
 import org.springframework.web.util.UriComponentsBuilder;
 
@@ -49,7 +47,8 @@ public class GithubAuthServiceImpl extends DefaultAuthServiceImpl implements Git
         return map;
     }
 
-    public String getAccessToken(String code) {
+    @Override
+    public String getAccessToken(String code) throws Exception {
         String url = String.format(ACCESS_TOKEN_URL, API_KEY, API_SECRET, code, CALLBACK_URL,GITHUB_STATE);
         UriComponentsBuilder builder = UriComponentsBuilder.fromHttpUrl(url);
         URI uri = builder.build().encode().toUri();
@@ -60,34 +59,35 @@ public class GithubAuthServiceImpl extends DefaultAuthServiceImpl implements Git
             String access_token = map.get("access_token");
             return access_token;
         } else {
-            throw new ServiceException(resp);
+            Map<String, String> map = getParam(resp);
+            String error = map.get("error");
+            throw new Exception(error);
         }
     }
 
+    @Override
     public String getOpenId(String accessToken) {
         return null;
     }
 
+    @Override
     public String refreshToken(String code) {
         return null;
     }
 
+    @Override
     public String getAuthorizationUrl() throws UnsupportedEncodingException {
         return String.format(AUTHORIZE_URL,API_KEY,CALLBACK_URL,GITHUB_STATE);
     }
 
-    public BindUserDTO getUserInfo(String accessToken) {
+    @Override
+    public Object getUserInfo(String accessToken) {
         String url = String.format(USER_INFO_URL, accessToken);
         UriComponentsBuilder builder = UriComponentsBuilder.fromHttpUrl(url);
         URI uri = builder.build().encode().toUri();
 
         String resp = getRestTemplate().getForObject(uri, String.class);
         JSONObject data = JSONObject.parseObject(resp);
-        BindUserDTO result = new BindUserDTO();
-        result.setOpenId(data.getString("id"));
-        result.setAvatar(data.getString("avatar_url"));
-        result.setNickname(data.getString("name"));
-        result.setType("github");
-        return result;
+        return data;
     }
 }
